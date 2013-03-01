@@ -97,7 +97,11 @@ char * file_read_number(char *path ,float **t , int l , int m )
      
  
  }
-     
+ /* complete ou re cree la fonction qui lit un nombre a partir du fichier 
+            - verifier si le fichier est dans le format convenable (une matrice avec des nombre et des tab et retour chariot)
+            - extraire le nombre sous forme de chaine de caractere pour etre converti par la  fonction convert 
+            ( on traivail dans un fichier text   )
+*/
      
 
 
